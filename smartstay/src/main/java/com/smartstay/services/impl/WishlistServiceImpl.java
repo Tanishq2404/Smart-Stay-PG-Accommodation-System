@@ -1,4 +1,5 @@
 package com.smartstay.services.impl;
+import com.smartstay.services.WishlistService;
 
 import java.util.List;
 import java.util.Optional;
